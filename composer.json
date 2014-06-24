@@ -1,0 +1,13 @@
+{
+    "name" : "itcom/String_Random",
+	"type": "library",
+    "autoload": {
+        "classmap": [
+            ""
+        ]
+    },
+	"include-path": [
+		"/"
+	],
+	"description": "PerlのString::RandomのPHP版です。"
+}
